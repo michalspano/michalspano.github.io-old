@@ -1,29 +1,32 @@
-html {
+:root
+{
+  --defaultFont: Futura;
+}
+
+html
+{
   background:url(https://i.pinimg.com/originals/47/2a/e4/472ae4d2a6388cbc3e9856dc876dee5b.gif)no-repeat center center fixed;
   -webkit-background-size:cover;
   -moz-background-size:cover;
   background-size: cover;
-  backdrop-filter: blur(5px);
+  backdrop-filter: blur(20px);
 }
-h1 {
+
+h1, h2, h5
+{
   text-align: center;
   color: white;
   text-shadow: black;
-  font-family: rockwell;
+  font-family: var(--defaultFont);
 }
-h2 {
-  text-align: center;
-  color: white;
-  text-shadow: black;
-  font-family: rockwell;
+
+h2
+{
   font-size: 160%;
 }
-h5 {
-  text-align: center;
-  color: white;
-  text-shadow: black;
-}
-p {
+
+p
+{
   text-align: center;
   color: white;
 }
