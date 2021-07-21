@@ -1,7 +1,4 @@
-# Michal Špano Personal Website
-***
-## Hello everyone!
-# Welcome to my Personal site
+# Michal Špano's Personal Website
 ___
 ## My Projects
 
