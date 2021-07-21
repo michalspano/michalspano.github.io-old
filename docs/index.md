@@ -8,11 +8,14 @@ ___
 4. [Bot Development][ID4]
 5. [SE-SK Dictionary][ID5]
 
+<h1><iframe src="https://discord.com/widget?id=847582012411871253&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
+</iframe></h1>
+
 <!--
 Link reference
 --->
 [ID1]: https://michalspano.myportfolio.com
-[ID2]: ./file1.html
+[ID2]: file1.ht
 [ID3]: https://datalore.jetbrains.com/view/notebook/jNqbu2J9dbFUdmfENQRiv0
 [ID4]: https://github.com/michalspano/Swedish-Slovak-Dictionary
 [ID5]: https://github.com/michalspano/Swedish-Slovak-Dictionary
