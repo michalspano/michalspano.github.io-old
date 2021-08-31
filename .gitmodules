@@ -1,5 +1,5 @@
 [submodule "Sorting-Algorithms"]
-	path = Sorting-Algorithms/src
+	path = Sorting-Algorithms
 	url = https://github.com/michalspano/Sorting-Algorithms.git
 [submodule "Study-notebooks"]
 	path = Study-notebooks
