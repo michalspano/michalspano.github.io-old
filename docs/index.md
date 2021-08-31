@@ -1,11 +1,11 @@
 <!-- Static web hosted at GitHub -->
-# Michal Špano's Personal Website
+<h1 align="center"> Michal Špano's Personal Website </h1>
 
 <!-- HTML SUPPORT -->
-<h2 align="center"> My Projects </h2><br>
+<h2 align="center"> My Projects </h2>
 
 <!-- CENTER ALIGNMENT -->
-<p align="center">
+<h3 align="center">
     1. <a href="https://michalspano.myportfolio.com"> CC Portfolio </a> <br>
     2. <a href="https://github.com/Youth-Dev-Foundation"> Organization for Developers </a> <br>
     3. <a href="https://datalore.jetbrains.com/view/notebook/jNqbu2J9dbFUdmfENQRiv0"> Statistics </a><br>
@@ -13,7 +13,7 @@
     5. <a href="https://michalspano.github.io/The-Swedish-Bot/"> The Swedish Twitter Bot </a> <br>
     6. <a href="https://github.com/michalspano/Swedish-Slovak-Dictionary
 "> SE-SK Dictionary </a> <br>
-</p>
+</h3>
 
 <!-- 
 COMMAND OUT MD
