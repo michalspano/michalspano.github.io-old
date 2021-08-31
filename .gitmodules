@@ -1,0 +1,3 @@
+[submodule "Sorting-Algorithms"]
+	path = Sorting-Algorithms
+	url = https://github.com/michalspano/Sorting-Algorithms.git
