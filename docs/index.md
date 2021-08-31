@@ -5,7 +5,7 @@
 <h2 align="center"> My Projects </h2>
 
 <!-- CENTER ALIGNMENT -->
-<h3 align="center">
+<h4 align="center">
     1. <a href="https://michalspano.myportfolio.com"> CC Portfolio </a> <br>
     2. <a href="https://github.com/Youth-Dev-Foundation"> Organization for Developers </a> <br>
     3. <a href="https://datalore.jetbrains.com/view/notebook/jNqbu2J9dbFUdmfENQRiv0"> Statistics </a><br>
@@ -13,7 +13,16 @@
     5. <a href="https://michalspano.github.io/The-Swedish-Bot/"> The Swedish Twitter Bot </a> <br>
     6. <a href="https://github.com/michalspano/Swedish-Slovak-Dictionary
 "> SE-SK Dictionary </a> <br>
-</h3>
+</h4><br>
+
+<!-- GitHub Sub-modules (from this repo) -->
+<h2 align="center"> GitHub </h2><br>
+
+<!-- SUB-MODULES -->
+<h4 align="center">
+    1. <a href="Sorting-Algorithms/src/lobby.html"> Sorting Algorithms </a><br>
+    2. <a href="Study-notebooks/Python/Dna/Dna-notebook.ipynb"> Study-notebooks: DNA and Python </a><br>
+</h4>
 
 <!-- 
 COMMAND OUT MD
