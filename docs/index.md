@@ -20,8 +20,8 @@
 
 <!-- SUB-MODULES -->
 <h4 align="center">
-    1. <a href="Sorting-Algorithms/src/lobby.html"> Sorting Algorithms </a><br>
-    2. <a href="Study-notebooks/Python/Dna/Dna-notebook.ipynb"> Study-notebooks: DNA and Python </a><br>
+    1. <a href="Sorting-Algorithms/src/index.html"> Sorting Algorithms </a><br>
+    2. <a href=""> Study-notebooks: DNA and Python </a><br>
 </h4>
 
 <!-- 
