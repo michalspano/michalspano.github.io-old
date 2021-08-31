@@ -11,7 +11,7 @@
     3. <a href="https://datalore.jetbrains.com/view/notebook/jNqbu2J9dbFUdmfENQRiv0"> Statistics </a><br>
     4. <a href="https://github.com/michalspano/Bot-Development"> Bot Development </a> <br>
     5. <a href="https://michalspano.github.io/The-Swedish-Bot/"> The Swedish Twitter Bot </a> <br>
-    6. <a href="[ID5]: https://github.com/michalspano/Swedish-Slovak-Dictionary
+    6. <a href="https://github.com/michalspano/Swedish-Slovak-Dictionary
 "> SE-SK Dictionary </a> <br>
 </p>
 
