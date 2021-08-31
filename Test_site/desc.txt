@@ -1,2 +1,0 @@
-Deprecated as of 21/07/2021 using a new site model.
-Powered by GitHub Pages.

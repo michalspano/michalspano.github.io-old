@@ -1,3 +1,6 @@
 # Ignroing auto-generated .idea file
 .idea
 .DS_Store
+
+# Ignore unused site
+Test_site/
