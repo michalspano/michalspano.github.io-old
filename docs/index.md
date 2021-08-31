@@ -20,7 +20,7 @@
 
 <!-- SUB-MODULES -->
 <h4 align="center">
-    1. <a href="https://michalspano.github.io/Sorting-Algorithms/readme.md"> Sorting Algorithms </a><br>
+    1. <a href="https://github.com/michalspano/Sorting-Algorithms/blob/ae810bf43d1aad091857111a09ca6a7117911158/src/index.html"> Sorting Algorithms </a><br>
     2. <a href=""> Study-notebooks: DNA and Python </a><br>
 </h4>
 
