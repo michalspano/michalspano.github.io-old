@@ -10,13 +10,12 @@
     2. <a href="https://github.com/Youth-Dev-Foundation"> Organization for Developers </a> <br>
     3. <a href="https://datalore.jetbrains.com/view/notebook/jNqbu2J9dbFUdmfENQRiv0"> Statistics </a><br>
     4. <a href="https://github.com/michalspano/Bot-Development"> Bot Development </a> <br>
-    5. <a href="https://michalspano.github.io/The-Swedish-Bot/"> The Swedish Twitter Bot </a> <br>
-    6. <a href="https://github.com/michalspano/Swedish-Slovak-Dictionary
-"> SE-SK Dictionary </a> <br>
+    5. <a href="https://michalspano.github.io/The-Swedish-Bot"> The Swedish Twitter Bot </a> <br>
+    6. <a href="https://michalspano.github.io/Swedish-Slovak-Dictionary/"> SE-SK Dictionary </a> <br>
 </h4><br>
 
 <!-- GitHub Sub-modules (from this repo) -->
-<h2 align="center"> GitHub </h2><br>
+<h2 align="center"> GitHub </h2>
 
 <!-- SUB-MODULES -->
 <h4 align="center">
