@@ -25,5 +25,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>project</title>
+      <link>https://michalspano.github.io/tags/project/</link>
+      <pubDate>Tue, 31 Aug 2021 15:00:01 +0200</pubDate>
+      
+      <guid>https://michalspano.github.io/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift</title>
+      <link>https://michalspano.github.io/tags/swift/</link>
+      <pubDate>Tue, 31 Aug 2021 15:00:01 +0200</pubDate>
+      
+      <guid>https://michalspano.github.io/tags/swift/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
