@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Michal Spano</title>
+    <title>Posts on Michal Špano</title>
     <link>https://michalspano.github.io/posts/</link>
-    <description>Recent content in Posts on Michal Spano</description>
+    <description>Recent content in Posts on Michal Špano</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Fri, 08 Oct 2021 15:15:08 +0200</lastBuildDate><atom:link href="https://michalspano.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>This is my initial Blog post</title>
-      <link>https://michalspano.github.io/posts/first_post/</link>
+      <title>My First Blog Post!</title>
+      <link>https://michalspano.github.io/posts/first-post/</link>
       <pubDate>Fri, 08 Oct 2021 15:15:08 +0200</pubDate>
       
-      <guid>https://michalspano.github.io/posts/first_post/</guid>
-      <description>echo &amp;#39;Hello world!&amp;#39; </description>
+      <guid>https://michalspano.github.io/posts/first-post/</guid>
+      <description>My First Blog Post! echo &amp;#39;Hello world!&amp;#39; </description>
     </item>
     
   </channel>
