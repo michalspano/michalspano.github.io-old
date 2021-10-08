@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on Michal Špano</title>
+    <link>https://michalspano.github.io/tags/javascript/</link>
+    <description>Recent content in JavaScript on Michal Špano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Oct 2021 15:30:31 +0200</lastBuildDate><atom:link href="https://michalspano.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Robme Web!</title>
+      <link>https://michalspano.github.io/posts/robme-web-initial/</link>
+      <pubDate>Tue, 05 Oct 2021 15:30:31 +0200</pubDate>
+      
+      <guid>https://michalspano.github.io/posts/robme-web-initial/</guid>
+      <description>Robme web! [SK] 🇸🇰 This project is focusing on Web development in the Slovak language.
+  How to get started with .php development: link
+  Explore dynamic sites with .js capabilities or pristine .css stylesheets
+  Source code is available here
+  ZIP download v0.0.1
+  This project is scheduled to have further releases!
+Dynamic Sites Example - Questionnaire Taken from Questionnaire
+Sample JavaScript Code Snippet Taken from Questionnaire/version2/script.</description>
+    </item>
+    
+  </channel>
+</rss>
