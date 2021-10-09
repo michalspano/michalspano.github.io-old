@@ -1,0 +1,3 @@
+# Git Linguist Prefs
+# Ignore tag modules
+tags/* linguist-vendored
