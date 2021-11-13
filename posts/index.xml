@@ -6,7 +6,19 @@
     <description>Recent content in Posts on Michal Špano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Oct 2021 17:48:35 +0200</lastBuildDate><atom:link href="https://michalspano.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Nov 2021 21:46:03 +0100</lastBuildDate><atom:link href="https://michalspano.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding the Rules of Logarithms</title>
+      <link>https://michalspano.github.io/posts/log/</link>
+      <pubDate>Sat, 13 Nov 2021 21:46:03 +0100</pubDate>
+      
+      <guid>https://michalspano.github.io/posts/log/</guid>
+      <description>Understanding the Rules of Logarithms In this document, I try to depict and prove some of the most common rules of logarithms.
+LaTeX This entire work is written in LaTeX..tex source: linkPrevious LaTeX work: Understanding the Tangent Function
+Export PDF Export can be obtained here: link.
+Socials </description>
+    </item>
+    
     <item>
       <title>Understanding the Tangent Function</title>
       <link>https://michalspano.github.io/posts/tangent/</link>
@@ -14,7 +26,7 @@
       
       <guid>https://michalspano.github.io/posts/tangent/</guid>
       <description>Understanding the Tangent Function Have you ever thought about the properties of a simple tan(x) function? If that&amp;rsquo;s something what might interest you, then you are at the right place! I have prepared a PDF document which will provide you with a broader understanding of the tangent function (amongst other information).
-GeoGebra Applets In order to receive such understanding, I have conducted sevelar GeoGebra Applets that shall make it easier to understand the presented concepts.</description>
+GeoGebra Applets In order to receive such understanding, I have conducted several GeoGebra Applets that shall make it easier to understand the presented concepts.</description>
     </item>
     
     <item>

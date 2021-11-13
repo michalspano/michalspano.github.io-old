@@ -6,11 +6,11 @@
     <description>Recent content in Tags on Michal Špano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Oct 2021 17:48:35 +0200</lastBuildDate><atom:link href="https://michalspano.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Nov 2021 21:46:03 +0100</lastBuildDate><atom:link href="https://michalspano.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
       <link>https://michalspano.github.io/tags/blog/</link>
-      <pubDate>Wed, 27 Oct 2021 17:48:35 +0200</pubDate>
+      <pubDate>Sat, 13 Nov 2021 21:46:03 +0100</pubDate>
       
       <guid>https://michalspano.github.io/tags/blog/</guid>
       <description></description>
@@ -19,9 +19,18 @@
     <item>
       <title>Education</title>
       <link>https://michalspano.github.io/tags/education/</link>
-      <pubDate>Wed, 27 Oct 2021 17:48:35 +0200</pubDate>
+      <pubDate>Sat, 13 Nov 2021 21:46:03 +0100</pubDate>
       
       <guid>https://michalspano.github.io/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maths</title>
+      <link>https://michalspano.github.io/tags/maths/</link>
+      <pubDate>Sat, 13 Nov 2021 21:46:03 +0100</pubDate>
+      
+      <guid>https://michalspano.github.io/tags/maths/</guid>
       <description></description>
     </item>
     
@@ -31,15 +40,6 @@
       <pubDate>Wed, 27 Oct 2021 17:48:35 +0200</pubDate>
       
       <guid>https://michalspano.github.io/tags/geogebra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maths</title>
-      <link>https://michalspano.github.io/tags/maths/</link>
-      <pubDate>Wed, 27 Oct 2021 17:48:35 +0200</pubDate>
-      
-      <guid>https://michalspano.github.io/tags/maths/</guid>
       <description></description>
     </item>
     
